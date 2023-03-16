@@ -1,0 +1,4 @@
+SELECT * FROM travelers WHERE NOT country ='Canada' AND NOT country ='Mexico' AND NOT country ='USA'
+Solution
+1
+--Your Code Here
